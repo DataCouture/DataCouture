@@ -45,8 +45,9 @@ Conducted sales and expenditure analysis for CFG using Python to address busines
 
 
 
-- 💞️ I’m looking to collaborate on sustainability and pro earth
--    I am reading - Girl, Women, Other by Bernadine Evaristo
+-  I’m looking for entry level data analyst jobs
+- 
+-  I am reading - Girl, Women, Other by Bernadine Evaristo
 
 <!---
 DataCouture/DataCouture is a ✨ special ✨ repository because it is! 
