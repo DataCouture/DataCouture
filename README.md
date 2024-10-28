@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Data Couturiere
-Professional Summary : Novice but not naive Data Analyst, proficient in Python, Excel, and MySQL. I excel in data processing, reporting, and performance measurement, with a deep understanding of Data Protection legislation. I have a proven track record of designing high-quality data analysis reports, managing information systems, and delivering insights that improve business processes by 20%. Skilled in conveying complex information and collaborating with diverse stakeholders, I am committed to continuous learning and adapting to new data technologies. I have 15+ years of experience on aducation sector with transferable skills of Creativity, Curiocity and Collaboration. 
+Hello! This is Ruhee DC, Data Couturiere'
+
+Trainee Data Analyst currently in a temporary role with a Govt company gaining experience in data verification, modelling and analytics. Proficient in PowerBI, Python (highly commended candidate), Excel, and MySQL, with a track record of driving data-led dynamic/ interactive Dashboards.
+Previously, performed the role of Associate Professor in Fashion and Design leveraging over 15 years of academic leadership and technical expertise and an additional 5 years working in the fashion industry.
+Successfully led projects that improved business processes by 20% and optimized educational outcomes for 160+ students.
+Transitioned into data analysis following a move to the UK, passionate about data and keen to pursue a career in data.
 
 SKILLS _____________________________ 
 Data Analysis: Expertise in analysing complex datasets.
@@ -40,10 +44,6 @@ Tools Used: Excel, Pivot tables
 
 o	CFG Sales Data Analysis 
 Conducted sales and expenditure analysis for CFG using Python to address business questions on total sales, trends, and profitability. Developed a menu-driven interface to facilitate data analysis for non-technical users. Tools: Python, CSV module, data structures (lists), control structures (conditional statements, loops), data analysis, and financial analysis.
-
-
-
-
 
 -  I’m looking for entry level data analyst jobs
 - 
